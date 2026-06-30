@@ -1,0 +1,41 @@
+{
+  "n_train": 29487,
+  "n_test": 19658,
+  "n_classes": 531,
+  "n_hier_edges": 568,
+  "n_keyword_entries": 531,
+  "train_words": {
+    "mean": 98.36877267948587,
+    "median": 74.0,
+    "min": 25,
+    "max": 1708,
+    "p95": 247.0
+  },
+  "test_words": {
+    "mean": 98.51439617458541,
+    "median": 75.0,
+    "min": 25,
+    "max": 1340,
+    "p95": 244.0
+  },
+  "train_pct_over_128w": 22.423440838335537,
+  "n_roots": 6,
+  "n_leaves": 462,
+  "max_depth": 2,
+  "max_parents_per_child": 7,
+  "multi_parent_children": 25,
+  "children_per_parent_mean": 8.231884057971014,
+  "children_per_parent_max": 25,
+  "keywords_per_class_mean": 9.932203389830509,
+  "keywords_per_class_min": 1,
+  "keywords_per_class_max": 10,
+  "silver_labeled": 19500,
+  "silver_unlabeled": 9987,
+  "silver_coverage_pct": 66.1,
+  "silver_labels_per_sample_mean": 6.774512820512821,
+  "silver_classes_covered": 277,
+  "submission_rows": 19658,
+  "submission_labels_per_sample_mean": 3.0,
+  "submission_classes_used": 108,
+  "submission_classes_unused": 423
+}
