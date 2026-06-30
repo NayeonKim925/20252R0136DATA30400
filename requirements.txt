@@ -1,0 +1,14 @@
+# Core deep learning
+torch>=1.10
+transformers>=4.20
+
+# Data & numerics
+numpy>=1.21
+pandas>=1.3
+
+# Evaluation & visualization (evaluation.ipynb / eda.ipynb)
+scikit-learn>=1.0
+matplotlib>=3.4
+
+# Utilities
+tqdm>=4.62
